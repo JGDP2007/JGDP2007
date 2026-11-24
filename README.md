@@ -1,36 +1,28 @@
-## # Hi there 👋
+# Hi, I'm Jan-Gerhard 👋
 
-I'm Jan-Gerhard, a Software Engineering Student from Pretoria who enjoys building software, learning new technologies, and working on programming projects.
+Software Engineering student at **Eduvos, Pretoria**, who likes building things and learning how real software works.
 
-## 🚀 About Me
+## 🚀 Featured project: DID U DO?
 
-* 💻 Interested in software development and web applications
-* 🌱 Currently learning more about Python, databases, and backend development
-* 🔧 Working with technologies like Python, Flask, SQL, and Git
-* 🎯 Goal: Build useful real-world applications and improve my coding skills every day
+A team task-management web app with Kanban boards, a calendar view, teams and organisations, reminders and Paystack subscriptions.
 
-## 🛠️ Languages & Tools
+- 🌐 **Live:** [dyd.gasco.digital](https://dyd.gasco.digital)
+- 💡 A for-fun learning project, built mostly through **vibe coding** (AI-assisted development) to explore how web apps are made, from idea to live server
 
-* Python
-* Flask
-* SQL / SQLite
-* HTML & CSS
-* Git & GitHub
+## 🎓 Right now
 
-## 📂 Projects
+- 📚 BSc IT (Software Engineering) at Eduvos: Year 1 done, with Academic Achievement Certificates in 2026
+- 🔜 Learning **C#** and **Python** as electives in 2027
+- 🎛️ IT & AV technician at NG Tygerpoort since 2022
+- 🔎 **Looking for job shadowing or vacation work in Pretoria or Johannesburg in January 2027**
 
-Here are some of the projects I work on:
+## 🛠️ Languages & tools
 
-* Flight booking systems
-* Task management web apps
-* Automation tools
-* Learning and practice projects
+C++ · Git & GitHub · Linux (Ubuntu) · AI-assisted development
 
 ## 📫 Contact
 
-* GitHub: JGDP2007
-* Email : jgduplessis25@gmail.com
+- ✉️ jgduplessis25@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jan-gerhard-du-plessis-a1814739b/)
 
----
-
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting!
